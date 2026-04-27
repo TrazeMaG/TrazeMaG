@@ -24,15 +24,6 @@ Async Python, WebSocket integration, Bayesian probability model.
 
 ---
 
-## Skills
-
-**AI/ML:** PyTorch · Transformers · HuggingFace · Mechanistic Interpretability  
-**Data:** SQL · Power BI · Python · Pandas  
-**Backend:** Supabase · Netlify Functions · REST APIs  
-**Currently learning:** arXiv research workflow · LLM internals
-
----
-
 ## Education
 
 MSc Business Analytics — Dublin Business School
