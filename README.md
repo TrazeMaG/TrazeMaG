@@ -1,12 +1,47 @@
-# 💫 About Me:
-👋 Hi, I'm Nikhil Upadhyay<br>🤖 Building AI agents, data systems & automation workflows using Python, SQL & APIs<br>📊 Business Analyst focused on Power BI, SQL & turning data into real business insights
-🎓 I’ve completed my Master’s in Business Analytics from Dublin Business School
-📫 How to reach me:
-Mobile no : +353894564932
-LinkedIn: https://www.linkedin.com/in/nikhil-upadhyay-/
-😄 Pronouns: he/him
-⚡ Fun fact: Everything feels complex until you break it down with data!
+# Nikhil Upadhyay
 
+Researcher & Builder working at the intersection of AI reliability 
+and data systems.
+
+Currently conducting independent research on hallucination detection 
+in transformer language models — building toward an arXiv publication.
+
+---
+
+## What I'm Working On
+
+🔬 **Hallucination Fingerprints** — Independent AI research  
+Identifying consistent internal activation patterns that precede 
+hallucinations in LLMs. Named finding: Relation Dropout.  
+→ [github.com/TrazeMaG/hallucination-fingerprints](https://github.com/TrazeMaG/hallucination-fingerprints)
+
+🤖 **EYE-FI** — AI-powered eye health screening app  
+Built with Gemini API, Supabase, and Netlify. Live product.  
+→ [eyefi-ai.netlify.app](https://eyefi-ai.netlify.app)
+
+📈 **Polymarket Trading Agent** — Autonomous prediction market system  
+Async Python, WebSocket integration, Bayesian probability model.
+
+---
+
+## Skills
+
+**AI/ML:** PyTorch · Transformers · HuggingFace · Mechanistic Interpretability  
+**Data:** SQL · Power BI · Python · Pandas  
+**Backend:** Supabase · Netlify Functions · REST APIs  
+**Currently learning:** arXiv research workflow · LLM internals
+
+---
+
+## Education
+
+MSc Business Analytics — Dublin Business School
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nikhil-upadhyay-/) · Dublin, Ireland
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nikhil.upadhyay.TrazeMaG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/trazemag/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-upadhyay-72353a143/ ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/TrazeMAG) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/TrazeMAG) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TrazeMAG) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@TrazeMAG) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TrazeMAG) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/TrAzEmaG2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TrazeMAG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil25000@gmail.com ) 
