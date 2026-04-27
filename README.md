@@ -1,5 +1,11 @@
 # 💫 About Me:
 👋 Hi, I'm Nikhil Upadhyay<br>🤖 Building AI agents, data systems & automation workflows using Python, SQL & APIs<br>📊 Business Analyst focused on Power BI, SQL & turning data into real business insights
+🎓 I’ve completed my Master’s in Business Analytics from Dublin Business School
+📫 How to reach me:
+Mobile no : +353894564932
+LinkedIn: https://www.linkedin.com/in/nikhil-upadhyay-/
+😄 Pronouns: he/him
+⚡ Fun fact: Everything feels complex until you break it down with data!
 
 
 ## 🌐 Socials:
