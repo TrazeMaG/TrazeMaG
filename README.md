@@ -1,26 +1,43 @@
 # Nikhil Upadhyay
 
-Researcher & Builder working at the intersection of AI reliability 
-and data systems.
+Independent Researcher & Builder — AI reliability, data systems, and production AI products.
 
-Currently conducting independent research on hallucination detection 
-in transformer language models — building toward an arXiv publication.
+MSc Business Analytics · Dublin Business School · Dublin, Ireland
 
 ---
 
-## What I'm Working On
+## Research
 
-🔬 **Hallucination Fingerprints** — Independent AI research  
-Identifying consistent internal activation patterns that precede 
-hallucinations in LLMs. Named finding: Relation Dropout.  
-→ [github.com/TrazeMaG/hallucination-fingerprints](https://github.com/TrazeMaG/hallucination-fingerprints)
+🔬 **Hallucination Fingerprints** — Independent AI Research · April 2026
+Identified two named phenomena in transformer language models: **Relation Dropout** and
+**Last-Layer Suppression**. Validated across 20,000 prompts on GPT-2. Released detection
+tool and labeled benchmark dataset. arXiv submission pending.
 
-🤖 **EYE-FI** — AI-powered eye health screening app  
-Built with Gemini API, Supabase, and Netlify. Live product.  
-→ [eyefi-ai.netlify.app](https://eyefi-ai.netlify.app)
+- Tool: `pip install hallscan`
+- Dataset: [huggingface.co/datasets/Trazemag/hallbench](https://huggingface.co/datasets/Trazemag/hallbench)
+- → [github.com/TrazeMaG/hallucination-fingerprints](https://github.com/TrazeMaG/hallucination-fingerprints)
 
-📈 **Polymarket Trading Agent** — Autonomous prediction market system  
-Async Python, WebSocket integration, Bayesian probability model.
+---
+
+## Products
+
+🏥 **EYE-FI** — AI Eye Disease Detection
+Detects 5 eye conditions using Gemini Vision API. Secure serverless backend, PDF report
+generator, EfficientNetB3 CNN trained on APTOS 2019 with custom focal loss. Live product.
+→ [eyefi-ai.netlify.app](https://eyefi-ai.netlify.app) · [github.com/TrazeMaG/eyefi](https://github.com/TrazeMaG/eyefi)
+
+📊 **Insighta** — No-Code AI Analytics Platform
+Upload CSV/Excel, get automated dashboards, KPI summaries, anomaly detection, and
+AI-generated insights via Claude API. Auto-chart engine detects column types and renders
+6+ chart types automatically.
+→ [insightaa.netlify.app](https://insightaa.netlify.app)
+
+📈 **Polymarket Trading Agent** — Autonomous Prediction Market System
+Async Python, WebSocket integration, Bayesian probability model. Live and deployed.
+
+🤖 **Autonomous LinkedIn Posting Agent**
+Scrapes real-time news, generates posts via Llama 3, creates images via Flux AI, publishes
+to LinkedIn daily via API. Zero manual input. Deployed on GitHub Actions.
 
 ---
 
