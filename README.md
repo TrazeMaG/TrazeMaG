@@ -9,13 +9,15 @@ MSc Business Analytics · Dublin Business School · Dublin, Ireland
 ## Research
 
 🔬 **Hallucination Fingerprints** — Independent AI Research · April 2026
-Identified two named phenomena in transformer language models: **Relation Dropout** and
-**Last-Layer Suppression**. Validated across 20,000 prompts on GPT-2. Released detection
-tool and labeled benchmark dataset. arXiv submission pending.
 
+Identified two named phenomena in transformer language models: **Relation Dropout** and **Last-Layer Suppression**. Validated across 20,000 prompts on GPT-2. Dataset downloaded 29+ times within 48 hours of release with zero promotion.
+
+- Preprint: [doi.org/10.5281/zenodo.19934537](https://doi.org/10.5281/zenodo.19934537)
+- Published: Zenodo · Academia.edu · OSF MetaArXiv
 - Tool: `pip install hallscan`
 - Dataset: [huggingface.co/datasets/Trazemag/hallbench](https://huggingface.co/datasets/Trazemag/hallbench)
-- → [github.com/TrazeMaG/hallucination-fingerprints](https://github.com/TrazeMaG/hallucination-fingerprints)
+- Code: [github.com/TrazeMaG/hallucination-fingerprints](https://github.com/TrazeMaG/hallucination-fingerprints)
+- arXiv cs.CL submission pending
 
 ---
 
